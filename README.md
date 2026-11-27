@@ -7,7 +7,7 @@ Working through [Simple training for beginners](https://codeforces.com/blog/entr
 Write solutions in `src/P<id>.java`. Each one is submitted to Codeforces first; once Accepted,
 its submission log is added at the top of the file and it is pushed here.
 
-## Progress: 21/250
+## Progress: 3/250
 
 ### Up next
 
@@ -17,7 +17,7 @@ its submission log is added at the top of the file and it is pushed here.
 
 <details><summary>Full list</summary>
 
-### 100 Problems A (20/100)
+### 100 Problems A (3/100)
 
 - [x] 1. [231A — Team](https://codeforces.com/problemset/problem/231/A) `800`
 - [x] 2. [228A — Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A) `800`
@@ -28,10 +28,10 @@ its submission log is added at the top of the file and it is pushed here.
 - [ ] 7. [181A — Series of Crimes](https://codeforces.com/problemset/problem/181/A) `800`
 - [ ] 8. [177A1 — Good Matrix Elements](https://codeforces.com/problemset/problem/177/A1) `800`
 - [ ] 9. [177A2 — Good Matrix Elements](https://codeforces.com/problemset/problem/177/A2) `800`
-- [x] 10. [158A — Next Round](https://codeforces.com/problemset/problem/158/A) `800`
+- [ ] 10. [158A — Next Round](https://codeforces.com/problemset/problem/158/A) `800`
 - [ ] 11. [155A — I_love_\%username\%](https://codeforces.com/problemset/problem/155/A) `800`
 - [ ] 12. [1399A — Remove Smallest](https://codeforces.com/problemset/problem/1399/A) `800`
-- [x] 13. [151A — Soft Drinking](https://codeforces.com/problemset/problem/151/A) `800`
+- [ ] 13. [151A — Soft Drinking](https://codeforces.com/problemset/problem/151/A) `800`
 - [ ] 14. [148A — Insomnia cure](https://codeforces.com/problemset/problem/148/A) `800`
 - [ ] 15. [146A — Lucky Ticket](https://codeforces.com/problemset/problem/146/A) `800`
 - [ ] 16. [144A — Arrival of the General](https://codeforces.com/problemset/problem/144/A) `800`
@@ -39,15 +39,15 @@ its submission log is added at the top of the file and it is pushed here.
 - [ ] 18. [136A — Presents](https://codeforces.com/problemset/problem/136/A) `800`
 - [ ] 19. [119A — Epic Game](https://codeforces.com/problemset/problem/119/A) `800`
 - [ ] 20. [116A — Tram](https://codeforces.com/problemset/problem/116/A) `800`
-- [x] 21. [112A — Petya and Strings](https://codeforces.com/problemset/problem/112/A) `800`
+- [ ] 21. [112A — Petya and Strings](https://codeforces.com/problemset/problem/112/A) `800`
 - [ ] 22. [110A — Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A) `800`
 - [ ] 23. [104A — Blackjack](https://codeforces.com/problemset/problem/104/A) `800`
 - [ ] 24. [92A — Chips](https://codeforces.com/problemset/problem/92/A) `800`
 - [ ] 25. [80A — Panoramix's Prediction](https://codeforces.com/problemset/problem/80/A) `800`
-- [x] 26. [71A — Way Too Long Words](https://codeforces.com/problemset/problem/71/A) `800`
+- [ ] 26. [71A — Way Too Long Words](https://codeforces.com/problemset/problem/71/A) `800`
 - [ ] 27. [61A — Ultra-Fast Mathematician](https://codeforces.com/problemset/problem/61/A) `800`
 - [ ] 28. [59A — Word](https://codeforces.com/problemset/problem/59/A) `800`
-- [x] 29. [50A — Domino piling](https://codeforces.com/problemset/problem/50/A) `800`
+- [ ] 29. [50A — Domino piling](https://codeforces.com/problemset/problem/50/A) `800`
 - [ ] 30. [49A — Sleuth](https://codeforces.com/problemset/problem/49/A) `800`
 - [ ] 31. [47A — Triangular numbers](https://codeforces.com/problemset/problem/47/A) `800`
 - [ ] 32. [41A — Translation](https://codeforces.com/problemset/problem/41/A) `800`
@@ -56,7 +56,7 @@ its submission log is added at the top of the file and it is pushed here.
 - [ ] 35. [32B — Borze](https://codeforces.com/problemset/problem/32/B) `800`
 - [ ] 36. [32A — Reconnaissance](https://codeforces.com/problemset/problem/32/A) `800`
 - [ ] 37. [9A — Die Roll](https://codeforces.com/problemset/problem/9/A) `800`
-- [x] 38. [4A — Watermelon](https://codeforces.com/problemset/problem/4/A) `800`
+- [ ] 38. [4A — Watermelon](https://codeforces.com/problemset/problem/4/A) `800`
 - [ ] 39. [764A — Taymyr is calling you](https://codeforces.com/problemset/problem/764/A) `800`
 - [ ] 40. [758A — Holiday Of Equality](https://codeforces.com/problemset/problem/758/A) `800`
 - [ ] 41. [755A — PolandBall and Hypothesis](https://codeforces.com/problemset/problem/755/A) `800`
@@ -67,14 +67,14 @@ its submission log is added at the top of the file and it is pushed here.
 - [ ] 46. [734A — Anton and Danik](https://codeforces.com/problemset/problem/734/A) `800`
 - [ ] 47. [732A — Buy a Shovel](https://codeforces.com/problemset/problem/732/A) `800`
 - [ ] 48. [731A — Night at the Museum](https://codeforces.com/problemset/problem/731/A) `800`
-- [x] 49. [723A — The New Year: Meeting Friends](https://codeforces.com/problemset/problem/723/A) `800`
+- [ ] 49. [723A — The New Year: Meeting Friends](https://codeforces.com/problemset/problem/723/A) `800`
 - [ ] 50. [721A — One-dimensional Japanese Crossword](https://codeforces.com/problemset/problem/721/A) `800`
 - [ ] 51. [716A — Crazy Computer](https://codeforces.com/problemset/problem/716/A) `800`
 - [ ] 52. [711A — Bus to Udayland](https://codeforces.com/problemset/problem/711/A) `800`
-- [x] 53. [707A — Brain's Photos](https://codeforces.com/problemset/problem/707/A) `800`
+- [ ] 53. [707A — Brain's Photos](https://codeforces.com/problemset/problem/707/A) `800`
 - [ ] 54. [705A — Hulk](https://codeforces.com/problemset/problem/705/A) `800`
 - [ ] 55. [703A — Mishka and Game](https://codeforces.com/problemset/problem/703/A) `800`
-- [x] 56. [702A — Maximum Increase](https://codeforces.com/problemset/problem/702/A) `800`
+- [ ] 56. [702A — Maximum Increase](https://codeforces.com/problemset/problem/702/A) `800`
 - [ ] 57. [701A — Cards](https://codeforces.com/problemset/problem/701/A) `800`
 - [ ] 58. [688A — Opponents](https://codeforces.com/problemset/problem/688/A) `800`
 - [ ] 59. [686A — Free Ice Cream](https://codeforces.com/problemset/problem/686/A) `800`
@@ -85,12 +85,12 @@ its submission log is added at the top of the file and it is pushed here.
 - [ ] 64. [658A — Bear and Reverse Radewoosh](https://codeforces.com/problemset/problem/658/A) `800`
 - [ ] 65. [630A — Again Twenty Five!](https://codeforces.com/problemset/problem/630/A) `800`
 - [ ] 66. [629A — Far Relative’s Birthday Cake](https://codeforces.com/problemset/problem/629/A) `800`
-- [x] 67. [617A — Elephant](https://codeforces.com/problemset/problem/617/A) `800`
+- [ ] 67. [617A — Elephant](https://codeforces.com/problemset/problem/617/A) `800`
 - [ ] 68. [615A — Bulbs](https://codeforces.com/problemset/problem/615/A) `800`
 - [ ] 69. [599A — Patrick and Shopping](https://codeforces.com/problemset/problem/599/A) `800`
 - [ ] 70. [595A — Vitaly and Night](https://codeforces.com/problemset/problem/595/A) `800`
 - [ ] 71. [581A — Vasya the Hipster](https://codeforces.com/problemset/problem/581/A) `800`
-- [x] 72. [546A — Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) `800`
+- [ ] 72. [546A — Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) `800`
 - [ ] 73. [520A — Pangram](https://codeforces.com/problemset/problem/520/A) `800`
 - [ ] 74. [510A — Fox And Snake](https://codeforces.com/problemset/problem/510/A) `800`
 - [ ] 75. [509A — Maximum in Table](https://codeforces.com/problemset/problem/509/A) `800`
@@ -99,16 +99,16 @@ its submission log is added at the top of the file and it is pushed here.
 - [ ] 78. [431A — Black Square](https://codeforces.com/problemset/problem/431/A) `800`
 - [ ] 79. [427A — Police Recruits](https://codeforces.com/problemset/problem/427/A) `800`
 - [ ] 80. [381A — Sereja and Dima](https://codeforces.com/problemset/problem/381/A) `800`
-- [x] 81. [263A — Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) `800`
+- [ ] 81. [263A — Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) `800`
 - [ ] 82. [266A — Stones on the Table](https://codeforces.com/problemset/problem/266/A) `800`
-- [x] 83. [282A — Bit++](https://codeforces.com/problemset/problem/282/A) `800`
-- [x] 84. [281A — Word Capitalization](https://codeforces.com/problemset/problem/281/A) `800`
-- [x] 85. [339A — Helpful Maths](https://codeforces.com/problemset/problem/339/A) `800`
+- [ ] 83. [282A — Bit++](https://codeforces.com/problemset/problem/282/A) `800`
+- [ ] 84. [281A — Word Capitalization](https://codeforces.com/problemset/problem/281/A) `800`
+- [ ] 85. [339A — Helpful Maths](https://codeforces.com/problemset/problem/339/A) `800`
 - [ ] 86. [1131A — Sea Battle](https://codeforces.com/problemset/problem/1131/A) `800`
 - [ ] 87. [1081A — Definite Game](https://codeforces.com/problemset/problem/1081/A) `800`
 - [ ] 88. [900A — Find Extra One](https://codeforces.com/problemset/problem/900/A) `800`
-- [x] 89. [791A — Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) `800`
-- [x] 90. [785A — Anton and Polyhedrons](https://codeforces.com/problemset/problem/785/A) `800`
+- [ ] 89. [791A — Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) `800`
+- [ ] 90. [785A — Anton and Polyhedrons](https://codeforces.com/problemset/problem/785/A) `800`
 - [ ] 91. [832A — Sasha and Sticks](https://codeforces.com/problemset/problem/832/A) `800`
 - [ ] 92. [894A — QAQ](https://codeforces.com/problemset/problem/894/A) `800`
 - [ ] 93. [908A — New Year and Counting Cards](https://codeforces.com/problemset/problem/908/A) `800`
@@ -120,7 +120,7 @@ its submission log is added at the top of the file and it is pushed here.
 - [ ] 99. [1146A — Love "A"](https://codeforces.com/problemset/problem/1146/A) `800`
 - [ ] 100. [1176A — Divide it!](https://codeforces.com/problemset/problem/1176/A) `800`
 
-### 100 Problems B (1/100)
+### 100 Problems B (0/100)
 
 - [ ] 1. [200B — Drinks](https://codeforces.com/problemset/problem/200/B) `800`
 - [ ] 2. [734B — Anton and Digits](https://codeforces.com/problemset/problem/734/B) `800`
@@ -200,7 +200,7 @@ its submission log is added at the top of the file and it is pushed here.
 - [ ] 76. [465B — Inbox (100500)](https://codeforces.com/problemset/problem/465/B) `1000`
 - [ ] 77. [339B — Xenia and Ringroad](https://codeforces.com/problemset/problem/339/B) `1000`
 - [ ] 78. [284B — Cows and Poker Game](https://codeforces.com/problemset/problem/284/B) `1000`
-- [x] 79. [268B — Buttons](https://codeforces.com/problemset/problem/268/B) `1000`
+- [ ] 79. [268B — Buttons](https://codeforces.com/problemset/problem/268/B) `1000`
 - [ ] 80. [177B1 — Rectangular Game](https://codeforces.com/problemset/problem/177/B1) `1000`
 - [ ] 81. [157B — Trace](https://codeforces.com/problemset/problem/157/B) `1000`
 - [ ] 82. [137B — Permutation](https://codeforces.com/problemset/problem/137/B) `1000`
