@@ -7,25 +7,25 @@ Working through [Simple training for beginners](https://codeforces.com/blog/entr
 Write solutions in `src/P<id>.java`. Each one is submitted to Codeforces first; once Accepted,
 its submission log is added at the top of the file and it is pushed here.
 
-## Progress: 3/250
+## Progress: 5/250
 
 ### Up next
 
-- [236A — Boy or Girl](https://codeforces.com/problemset/problem/236/A) `800`
 - [214A — System of Equations](https://codeforces.com/problemset/problem/214/A) `800`
 - [202A — LLPS](https://codeforces.com/problemset/problem/202/A) `800`
+- [177A1 — Good Matrix Elements](https://codeforces.com/problemset/problem/177/A1) `800`
 
 <details><summary>Full list</summary>
 
-### 100 Problems A (3/100)
+### 100 Problems A (5/100)
 
 - [x] 1. [231A — Team](https://codeforces.com/problemset/problem/231/A) `800`
 - [x] 2. [228A — Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A) `800`
-- [ ] 3. [236A — Boy or Girl](https://codeforces.com/problemset/problem/236/A) `800`
+- [x] 3. [236A — Boy or Girl](https://codeforces.com/problemset/problem/236/A) `800`
 - [x] 4. [233A — Perfect Permutation](https://codeforces.com/problemset/problem/233/A) `800`
 - [ ] 5. [214A — System of Equations](https://codeforces.com/problemset/problem/214/A) `800`
 - [ ] 6. [202A — LLPS](https://codeforces.com/problemset/problem/202/A) `800`
-- [ ] 7. [181A — Series of Crimes](https://codeforces.com/problemset/problem/181/A) `800`
+- [x] 7. [181A — Series of Crimes](https://codeforces.com/problemset/problem/181/A) `800`
 - [ ] 8. [177A1 — Good Matrix Elements](https://codeforces.com/problemset/problem/177/A1) `800`
 - [ ] 9. [177A2 — Good Matrix Elements](https://codeforces.com/problemset/problem/177/A2) `800`
 - [ ] 10. [158A — Next Round](https://codeforces.com/problemset/problem/158/A) `800`
