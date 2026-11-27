@@ -10,22 +10,22 @@ Working through [Simple training for beginners](https://codeforces.com/blog/entr
 4. `python3 scripts/cflog.py <id>` writes every submission + verdict as a comment at the top of the file.
 5. Once accepted: `python3 scripts/progress.py` moves it to `solved/`, adds the next stub, refreshes this README; then commit and push.
 
-## Progress: 21/250
+## Progress: 22/250
 
 ### Up next
 
-- [233A — Perfect Permutation](https://codeforces.com/problemset/problem/233/A) `800` → `src/P233A.java`
 - [214A — System of Equations](https://codeforces.com/problemset/problem/214/A) `800` → `src/P214A.java`
 - [202A — LLPS](https://codeforces.com/problemset/problem/202/A) `800` → `src/P202A.java`
+- [181A — Series of Crimes](https://codeforces.com/problemset/problem/181/A) `800` → `src/P181A.java`
 
 <details><summary>Full list</summary>
 
-### 100 Problems A (20/100)
+### 100 Problems A (21/100)
 
 - [x] 1. [231A — Team](https://codeforces.com/problemset/problem/231/A) `800`
 - [x] 2. [228A — Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A) `800`
 - [x] 3. [236A — Boy or Girl](https://codeforces.com/problemset/problem/236/A) `800`
-- [ ] 4. [233A — Perfect Permutation](https://codeforces.com/problemset/problem/233/A) `800`
+- [x] 4. [233A — Perfect Permutation](https://codeforces.com/problemset/problem/233/A) `800`
 - [ ] 5. [214A — System of Equations](https://codeforces.com/problemset/problem/214/A) `800`
 - [ ] 6. [202A — LLPS](https://codeforces.com/problemset/problem/202/A) `800`
 - [ ] 7. [181A — Series of Crimes](https://codeforces.com/problemset/problem/181/A) `800`
