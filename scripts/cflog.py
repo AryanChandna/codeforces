@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Writes a Codeforces submission log as a comment block at the top of src/P<id>.java.
+"""Writes a Codeforces submission log as a comment block at the top of src/ or solved/P<id>.java.
 
 Usage:
   python3 scripts/cflog.py 228A        # update one file
-  python3 scripts/cflog.py --all       # update every src/P*.java
+  python3 scripts/cflog.py --all       # update every src/ and solved/ P*.java
 
 Every submission for the problem by HANDLE is listed (newest first), whatever
 the verdict. The block sits between the BEGIN/END markers and is replaced on
@@ -99,9 +99,12 @@ def main():
         sys.exit(__doc__)
     all_subs, names = fetch_submissions(), problem_names()
     if args == ["--all"]:
-        paths = sorted(glob.glob(os.path.join(ROOT, "src", "P*.java")))
+        paths = sorted(glob.glob(os.path.join(ROOT, "src", "P*.java")) + glob.glob(os.path.join(ROOT, "solved", "P*.java")))
     else:
-        paths = [os.path.join(ROOT, "src", f"P{a.upper()}.java") for a in args]
+        paths = []
+        for a in args:
+            cands = [os.path.join(ROOT, d, f"P{a.upper()}.java") for d in ("src", "solved")]
+            paths.append(next((c for c in cands if os.path.exists(c)), cands[0]))
     for p in paths:
         pid = os.path.basename(p)[1:-5]
         if not os.path.exists(p):

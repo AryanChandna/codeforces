@@ -5,12 +5,20 @@ Working through [Simple training for beginners](https://codeforces.com/blog/entr
 ## Workflow
 
 1. `python3 scripts/progress.py --next` shows the next problem.
-2. Solve it in `src/Main.java`, save it as `src/P<id>.java` (e.g. `src/P231A.java`, class `P231A`).
+2. The next 3 problems always exist as empty `src/P<id>.java` stubs — write the solution there.
 3. Submit on Codeforces first.
 4. `python3 scripts/cflog.py <id>` writes every submission + verdict as a comment at the top of the file.
-5. Once accepted: `python3 scripts/progress.py` to refresh this README, then commit and push.
+5. Once accepted: `python3 scripts/progress.py` moves it to `solved/`, adds the next stub, refreshes this README; then commit and push.
 
 ## Progress: 21/250
+
+### Up next
+
+- [233A — Perfect Permutation](https://codeforces.com/problemset/problem/233/A) `800` → `src/P233A.java`
+- [214A — System of Equations](https://codeforces.com/problemset/problem/214/A) `800` → `src/P214A.java`
+- [202A — LLPS](https://codeforces.com/problemset/problem/202/A) `800` → `src/P202A.java`
+
+<details><summary>Full list</summary>
 
 ### 100 Problems A (20/100)
 
@@ -270,3 +278,5 @@ Working through [Simple training for beginners](https://codeforces.com/blog/entr
 - [ ] 48. [1389C — Good String](https://codeforces.com/problemset/problem/1389/C) `1500`
 - [ ] 49. [1372C — Omkar and Baseball](https://codeforces.com/problemset/problem/1372/C) `1500`
 - [ ] 50. [1366C — Palindromic Paths](https://codeforces.com/problemset/problem/1366/C) `1500`
+
+</details>
