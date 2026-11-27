@@ -1,0 +1,271 @@
+# Codeforces practice
+
+Working through [Simple training for beginners](https://codeforces.com/blog/entry/82143) — 100 A, 100 B and 50 C problems, rated 800–1500.
+
+## Workflow
+
+1. `python3 scripts/progress.py --next` shows the next problem.
+2. Solve it in `src/Main.java`, submit on Codeforces.
+3. Once accepted, save it as `src/P<id>.java` (e.g. `src/P231A.java`, class `P231A`).
+4. `python3 scripts/progress.py` to refresh this README, then commit and push.
+
+## Progress: 1/250
+
+### 100 Problems A (1/100)
+
+- [x] 1. [231A — Team](https://codeforces.com/problemset/problem/231/A) `800`
+- [ ] 2. [228A — Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A) `800`
+- [ ] 3. [236A — Boy or Girl](https://codeforces.com/problemset/problem/236/A) `800`
+- [ ] 4. [233A — Perfect Permutation](https://codeforces.com/problemset/problem/233/A) `800`
+- [ ] 5. [214A — System of Equations](https://codeforces.com/problemset/problem/214/A) `800`
+- [ ] 6. [202A — LLPS](https://codeforces.com/problemset/problem/202/A) `800`
+- [ ] 7. [181A — Series of Crimes](https://codeforces.com/problemset/problem/181/A) `800`
+- [ ] 8. [177A1 — Good Matrix Elements](https://codeforces.com/problemset/problem/177/A1) `800`
+- [ ] 9. [177A2 — Good Matrix Elements](https://codeforces.com/problemset/problem/177/A2) `800`
+- [ ] 10. [158A — Next Round](https://codeforces.com/problemset/problem/158/A) `800`
+- [ ] 11. [155A — I_love_\%username\%](https://codeforces.com/problemset/problem/155/A) `800`
+- [ ] 12. [1399A — Remove Smallest](https://codeforces.com/problemset/problem/1399/A) `800`
+- [ ] 13. [151A — Soft Drinking](https://codeforces.com/problemset/problem/151/A) `800`
+- [ ] 14. [148A — Insomnia cure](https://codeforces.com/problemset/problem/148/A) `800`
+- [ ] 15. [146A — Lucky Ticket](https://codeforces.com/problemset/problem/146/A) `800`
+- [ ] 16. [144A — Arrival of the General](https://codeforces.com/problemset/problem/144/A) `800`
+- [ ] 17. [141A — Amusing Joke](https://codeforces.com/problemset/problem/141/A) `800`
+- [ ] 18. [136A — Presents](https://codeforces.com/problemset/problem/136/A) `800`
+- [ ] 19. [119A — Epic Game](https://codeforces.com/problemset/problem/119/A) `800`
+- [ ] 20. [116A — Tram](https://codeforces.com/problemset/problem/116/A) `800`
+- [ ] 21. [112A — Petya and Strings](https://codeforces.com/problemset/problem/112/A) `800`
+- [ ] 22. [110A — Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A) `800`
+- [ ] 23. [104A — Blackjack](https://codeforces.com/problemset/problem/104/A) `800`
+- [ ] 24. [92A — Chips](https://codeforces.com/problemset/problem/92/A) `800`
+- [ ] 25. [80A — Panoramix's Prediction](https://codeforces.com/problemset/problem/80/A) `800`
+- [ ] 26. [71A — Way Too Long Words](https://codeforces.com/problemset/problem/71/A) `800`
+- [ ] 27. [61A — Ultra-Fast Mathematician](https://codeforces.com/problemset/problem/61/A) `800`
+- [ ] 28. [59A — Word](https://codeforces.com/problemset/problem/59/A) `800`
+- [ ] 29. [50A — Domino piling](https://codeforces.com/problemset/problem/50/A) `800`
+- [ ] 30. [49A — Sleuth](https://codeforces.com/problemset/problem/49/A) `800`
+- [ ] 31. [47A — Triangular numbers](https://codeforces.com/problemset/problem/47/A) `800`
+- [ ] 32. [41A — Translation](https://codeforces.com/problemset/problem/41/A) `800`
+- [ ] 33. [38A — Army](https://codeforces.com/problemset/problem/38/A) `800`
+- [ ] 34. [34A — Reconnaissance 2](https://codeforces.com/problemset/problem/34/A) `800`
+- [ ] 35. [32B — Borze](https://codeforces.com/problemset/problem/32/B) `800`
+- [ ] 36. [32A — Reconnaissance](https://codeforces.com/problemset/problem/32/A) `800`
+- [ ] 37. [9A — Die Roll](https://codeforces.com/problemset/problem/9/A) `800`
+- [ ] 38. [4A — Watermelon](https://codeforces.com/problemset/problem/4/A) `800`
+- [ ] 39. [764A — Taymyr is calling you](https://codeforces.com/problemset/problem/764/A) `800`
+- [ ] 40. [758A — Holiday Of Equality](https://codeforces.com/problemset/problem/758/A) `800`
+- [ ] 41. [755A — PolandBall and Hypothesis](https://codeforces.com/problemset/problem/755/A) `800`
+- [ ] 42. [750A — New Year and Hurry](https://codeforces.com/problemset/problem/750/A) `800`
+- [ ] 43. [749A — Bachgold Problem](https://codeforces.com/problemset/problem/749/A) `800`
+- [ ] 44. [746A — Compote](https://codeforces.com/problemset/problem/746/A) `800`
+- [ ] 45. [735A — Ostap and Grasshopper](https://codeforces.com/problemset/problem/735/A) `800`
+- [ ] 46. [734A — Anton and Danik](https://codeforces.com/problemset/problem/734/A) `800`
+- [ ] 47. [732A — Buy a Shovel](https://codeforces.com/problemset/problem/732/A) `800`
+- [ ] 48. [731A — Night at the Museum](https://codeforces.com/problemset/problem/731/A) `800`
+- [ ] 49. [723A — The New Year: Meeting Friends](https://codeforces.com/problemset/problem/723/A) `800`
+- [ ] 50. [721A — One-dimensional Japanese Crossword](https://codeforces.com/problemset/problem/721/A) `800`
+- [ ] 51. [716A — Crazy Computer](https://codeforces.com/problemset/problem/716/A) `800`
+- [ ] 52. [711A — Bus to Udayland](https://codeforces.com/problemset/problem/711/A) `800`
+- [ ] 53. [707A — Brain's Photos](https://codeforces.com/problemset/problem/707/A) `800`
+- [ ] 54. [705A — Hulk](https://codeforces.com/problemset/problem/705/A) `800`
+- [ ] 55. [703A — Mishka and Game](https://codeforces.com/problemset/problem/703/A) `800`
+- [ ] 56. [702A — Maximum Increase](https://codeforces.com/problemset/problem/702/A) `800`
+- [ ] 57. [701A — Cards](https://codeforces.com/problemset/problem/701/A) `800`
+- [ ] 58. [688A — Opponents](https://codeforces.com/problemset/problem/688/A) `800`
+- [ ] 59. [686A — Free Ice Cream](https://codeforces.com/problemset/problem/686/A) `800`
+- [ ] 60. [681A — A Good Contest](https://codeforces.com/problemset/problem/681/A) `800`
+- [ ] 61. [677A — Vanya and Fence](https://codeforces.com/problemset/problem/677/A) `800`
+- [ ] 62. [672A — Summer Camp](https://codeforces.com/problemset/problem/672/A) `800`
+- [ ] 63. [669A — Little Artem and Presents](https://codeforces.com/problemset/problem/669/A) `800`
+- [ ] 64. [658A — Bear and Reverse Radewoosh](https://codeforces.com/problemset/problem/658/A) `800`
+- [ ] 65. [630A — Again Twenty Five!](https://codeforces.com/problemset/problem/630/A) `800`
+- [ ] 66. [629A — Far Relative’s Birthday Cake](https://codeforces.com/problemset/problem/629/A) `800`
+- [ ] 67. [617A — Elephant](https://codeforces.com/problemset/problem/617/A) `800`
+- [ ] 68. [615A — Bulbs](https://codeforces.com/problemset/problem/615/A) `800`
+- [ ] 69. [599A — Patrick and Shopping](https://codeforces.com/problemset/problem/599/A) `800`
+- [ ] 70. [595A — Vitaly and Night](https://codeforces.com/problemset/problem/595/A) `800`
+- [ ] 71. [581A — Vasya the Hipster](https://codeforces.com/problemset/problem/581/A) `800`
+- [ ] 72. [546A — Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) `800`
+- [ ] 73. [520A — Pangram](https://codeforces.com/problemset/problem/520/A) `800`
+- [ ] 74. [510A — Fox And Snake](https://codeforces.com/problemset/problem/510/A) `800`
+- [ ] 75. [509A — Maximum in Table](https://codeforces.com/problemset/problem/509/A) `800`
+- [ ] 76. [443A — Anton and Letters](https://codeforces.com/problemset/problem/443/A) `800`
+- [ ] 77. [432A — Choosing Teams](https://codeforces.com/problemset/problem/432/A) `800`
+- [ ] 78. [431A — Black Square](https://codeforces.com/problemset/problem/431/A) `800`
+- [ ] 79. [427A — Police Recruits](https://codeforces.com/problemset/problem/427/A) `800`
+- [ ] 80. [381A — Sereja and Dima](https://codeforces.com/problemset/problem/381/A) `800`
+- [ ] 81. [263A — Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) `800`
+- [ ] 82. [266A — Stones on the Table](https://codeforces.com/problemset/problem/266/A) `800`
+- [ ] 83. [282A — Bit++](https://codeforces.com/problemset/problem/282/A) `800`
+- [ ] 84. [281A — Word Capitalization](https://codeforces.com/problemset/problem/281/A) `800`
+- [ ] 85. [339A — Helpful Maths](https://codeforces.com/problemset/problem/339/A) `800`
+- [ ] 86. [1131A — Sea Battle](https://codeforces.com/problemset/problem/1131/A) `800`
+- [ ] 87. [1081A — Definite Game](https://codeforces.com/problemset/problem/1081/A) `800`
+- [ ] 88. [900A — Find Extra One](https://codeforces.com/problemset/problem/900/A) `800`
+- [ ] 89. [791A — Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) `800`
+- [ ] 90. [785A — Anton and Polyhedrons](https://codeforces.com/problemset/problem/785/A) `800`
+- [ ] 91. [832A — Sasha and Sticks](https://codeforces.com/problemset/problem/832/A) `800`
+- [ ] 92. [894A — QAQ](https://codeforces.com/problemset/problem/894/A) `800`
+- [ ] 93. [908A — New Year and Counting Cards](https://codeforces.com/problemset/problem/908/A) `800`
+- [ ] 94. [1400A — String Similarity](https://codeforces.com/problemset/problem/1400/A) `800`
+- [ ] 95. [1385B — Restore the Permutation by Merger](https://codeforces.com/problemset/problem/1385/B) `800`
+- [ ] 96. [1369A — FashionabLee](https://codeforces.com/problemset/problem/1369/A) `800`
+- [ ] 97. [1343B — Balanced Array](https://codeforces.com/problemset/problem/1343/B) `800`
+- [ ] 98. [1154A — Restoring Three Numbers](https://codeforces.com/problemset/problem/1154/A) `800`
+- [ ] 99. [1146A — Love "A"](https://codeforces.com/problemset/problem/1146/A) `800`
+- [ ] 100. [1176A — Divide it!](https://codeforces.com/problemset/problem/1176/A) `800`
+
+### 100 Problems B (0/100)
+
+- [ ] 1. [200B — Drinks](https://codeforces.com/problemset/problem/200/B) `800`
+- [ ] 2. [734B — Anton and Digits](https://codeforces.com/problemset/problem/734/B) `800`
+- [ ] 3. [1399B — Gifts Fixing](https://codeforces.com/problemset/problem/1399/B) `800`
+- [ ] 4. [1398B — Substring Removal Game](https://codeforces.com/problemset/problem/1398/B) `800`
+- [ ] 5. [1391B — Fix You](https://codeforces.com/problemset/problem/1391/B) `800`
+- [ ] 6. [1360B — Honest Coach](https://codeforces.com/problemset/problem/1360/B) `800`
+- [ ] 7. [1367B — Even Array](https://codeforces.com/problemset/problem/1367/B) `800`
+- [ ] 8. [1325B — CopyCopyCopyCopyCopy](https://codeforces.com/problemset/problem/1325/B) `800`
+- [ ] 9. [1374B — Multiply by 2, divide by 6](https://codeforces.com/problemset/problem/1374/B) `900`
+- [ ] 10. [1373B — 01 Game](https://codeforces.com/problemset/problem/1373/B) `900`
+- [ ] 11. [1351B — Square?](https://codeforces.com/problemset/problem/1351/B) `900`
+- [ ] 12. [1337B — Kana and Dragon Quest game](https://codeforces.com/problemset/problem/1337/B) `900`
+- [ ] 13. [1335B — Construct the String](https://codeforces.com/problemset/problem/1335/B) `900`
+- [ ] 14. [1326B — Maximums](https://codeforces.com/problemset/problem/1326/B) `900`
+- [ ] 15. [1296B — Food Buying](https://codeforces.com/problemset/problem/1296/B) `900`
+- [ ] 16. [1283B — Candies Division](https://codeforces.com/problemset/problem/1283/B) `900`
+- [ ] 17. [1248B — Grow The Tree](https://codeforces.com/problemset/problem/1248/B) `900`
+- [ ] 18. [1216B — Shooting](https://codeforces.com/problemset/problem/1216/B) `900`
+- [ ] 19. [1206B — Make Product Equal One](https://codeforces.com/problemset/problem/1206/B) `900`
+- [ ] 20. [1183B — Equalize Prices](https://codeforces.com/problemset/problem/1183/B) `900`
+- [ ] 21. [1150B — Tiling Challenge](https://codeforces.com/problemset/problem/1150/B) `900`
+- [ ] 22. [1144B — Parity Alternated Deletions](https://codeforces.com/problemset/problem/1144/B) `900`
+- [ ] 23. [1141B — Maximal Continuous Rest](https://codeforces.com/problemset/problem/1141/B) `900`
+- [ ] 24. [1095B — Array Stabilization](https://codeforces.com/problemset/problem/1095/B) `900`
+- [ ] 25. [1093B — Letters Rearranging](https://codeforces.com/problemset/problem/1093/B) `900`
+- [ ] 26. [1080B — Margarite and the best present](https://codeforces.com/problemset/problem/1080/B) `900`
+- [ ] 27. [1047B — Cover Points](https://codeforces.com/problemset/problem/1047/B) `900`
+- [ ] 28. [1005B — Delete from the Left](https://codeforces.com/problemset/problem/1005/B) `900`
+- [ ] 29. [999B — Reversing Encryption](https://codeforces.com/problemset/problem/999/B) `900`
+- [ ] 30. [991B — Getting an A](https://codeforces.com/problemset/problem/991/B) `900`
+- [ ] 31. [935B — Fafa and the Gates](https://codeforces.com/problemset/problem/935/B) `900`
+- [ ] 32. [801B — Valued Keys](https://codeforces.com/problemset/problem/801/B) `900`
+- [ ] 33. [746B — Decoding](https://codeforces.com/problemset/problem/746/B) `900`
+- [ ] 34. [34B — Sale](https://codeforces.com/problemset/problem/34/B) `900`
+- [ ] 35. [16B — Burglar and Matches](https://codeforces.com/problemset/problem/16/B) `900`
+- [ ] 36. [1388B — Captain Flint and a Long Voyage](https://codeforces.com/problemset/problem/1388/B) `1000`
+- [ ] 37. [1359B — New Theatre Square](https://codeforces.com/problemset/problem/1359/B) `1000`
+- [ ] 38. [1358B — Maria Breaks the Self-isolation](https://codeforces.com/problemset/problem/1358/B) `1000`
+- [ ] 39. [1312B — Bogosort](https://codeforces.com/problemset/problem/1312/B) `1000`
+- [ ] 40. [1300B — Assigning to Classes](https://codeforces.com/problemset/problem/1300/B) `1000`
+- [ ] 41. [1293B — JOE is on TV!](https://codeforces.com/problemset/problem/1293/B) `1000`
+- [ ] 42. [1266B — Dice Tower](https://codeforces.com/problemset/problem/1266/B) `1000`
+- [ ] 43. [1257B — Magic Stick](https://codeforces.com/problemset/problem/1257/B) `1000`
+- [ ] 44. [1244B — Rooms and Staircases](https://codeforces.com/problemset/problem/1244/B) `1000`
+- [ ] 45. [1230B — Ania and Minimizing](https://codeforces.com/problemset/problem/1230/B) `1000`
+- [ ] 46. [1223B — Strings Equalization](https://codeforces.com/problemset/problem/1223/B) `1000`
+- [ ] 47. [1199B — Water Lily](https://codeforces.com/problemset/problem/1199/B) `1000`
+- [ ] 48. [1197B — Pillars](https://codeforces.com/problemset/problem/1197/B) `1000`
+- [ ] 49. [1165B — Polycarp Training](https://codeforces.com/problemset/problem/1165/B) `1000`
+- [ ] 50. [1139B — Chocolates](https://codeforces.com/problemset/problem/1139/B) `1000`
+- [ ] 51. [1136B — Nastya Is Playing Computer Games](https://codeforces.com/problemset/problem/1136/B) `1000`
+- [ ] 52. [1117B — Emotes](https://codeforces.com/problemset/problem/1117/B) `1000`
+- [ ] 53. [1107B — Digital root](https://codeforces.com/problemset/problem/1107/B) `1000`
+- [ ] 54. [1088B — Ehab and subtraction](https://codeforces.com/problemset/problem/1088/B) `1000`
+- [ ] 55. [1077B — Disturbed People](https://codeforces.com/problemset/problem/1077/B) `1000`
+- [ ] 56. [1073B — Vasya and Books](https://codeforces.com/problemset/problem/1073/B) `1000`
+- [ ] 57. [1054B — Appending Mex](https://codeforces.com/problemset/problem/1054/B) `1000`
+- [ ] 58. [1051B — Relatively Prime Pairs](https://codeforces.com/problemset/problem/1051/B) `1000`
+- [ ] 59. [1008B — Turn the Rectangles](https://codeforces.com/problemset/problem/1008/B) `1000`
+- [ ] 60. [981B — Businessmen Problems](https://codeforces.com/problemset/problem/981/B) `1000`
+- [ ] 61. [893B — Beautiful Divisors](https://codeforces.com/problemset/problem/893/B) `1000`
+- [ ] 62. [888B — Buggy Robot](https://codeforces.com/problemset/problem/888/B) `1000`
+- [ ] 63. [859B — Lazy Security Guard](https://codeforces.com/problemset/problem/859/B) `1000`
+- [ ] 64. [822B — Crossword solving](https://codeforces.com/problemset/problem/822/B) `1000`
+- [ ] 65. [805B — 3-palindrome](https://codeforces.com/problemset/problem/805/B) `1000`
+- [ ] 66. [766B — Mahmoud and a Triangle](https://codeforces.com/problemset/problem/766/B) `1000`
+- [ ] 67. [732B — Cormen --- The Best Friend Of a Man](https://codeforces.com/problemset/problem/732/B) `1000`
+- [ ] 68. [688B — Lovely Palindromes](https://codeforces.com/problemset/problem/688/B) `1000`
+- [ ] 69. [680B — Bear and Finding Criminals](https://codeforces.com/problemset/problem/680/B) `1000`
+- [ ] 70. [672B — Different is Good](https://codeforces.com/problemset/problem/672/B) `1000`
+- [ ] 71. [670B — Game of Robots](https://codeforces.com/problemset/problem/670/B) `1000`
+- [ ] 72. [652B — z-sort](https://codeforces.com/problemset/problem/652/B) `1000`
+- [ ] 73. [620B — Grandfather Dovlet’s calculator](https://codeforces.com/problemset/problem/620/B) `1000`
+- [ ] 74. [616B — Dinner with Emma](https://codeforces.com/problemset/problem/616/B) `1000`
+- [ ] 75. [499B — Lecture](https://codeforces.com/problemset/problem/499/B) `1000`
+- [ ] 76. [465B — Inbox (100500)](https://codeforces.com/problemset/problem/465/B) `1000`
+- [ ] 77. [339B — Xenia and Ringroad](https://codeforces.com/problemset/problem/339/B) `1000`
+- [ ] 78. [284B — Cows and Poker Game](https://codeforces.com/problemset/problem/284/B) `1000`
+- [ ] 79. [268B — Buttons](https://codeforces.com/problemset/problem/268/B) `1000`
+- [ ] 80. [177B1 — Rectangular Game](https://codeforces.com/problemset/problem/177/B1) `1000`
+- [ ] 81. [157B — Trace](https://codeforces.com/problemset/problem/157/B) `1000`
+- [ ] 82. [137B — Permutation](https://codeforces.com/problemset/problem/137/B) `1000`
+- [ ] 83. [125B — Simple XML](https://codeforces.com/problemset/problem/125/B) `1000`
+- [ ] 84. [127B — Canvas Frames](https://codeforces.com/problemset/problem/127/B) `1000`
+- [ ] 85. [122B — Lucky Substring](https://codeforces.com/problemset/problem/122/B) `1000`
+- [ ] 86. [106B — Choosing Laptop](https://codeforces.com/problemset/problem/106/B) `1000`
+- [ ] 87. [160B — Unlucky Ticket](https://codeforces.com/problemset/problem/160/B) `1100`
+- [ ] 88. [158B — Taxi](https://codeforces.com/problemset/problem/158/B) `1100`
+- [ ] 89. [155B — Combination](https://codeforces.com/problemset/problem/155/B) `1100`
+- [ ] 90. [136B — Ternary Logic](https://codeforces.com/problemset/problem/136/B) `1100`
+- [ ] 91. [120B — Quiz League](https://codeforces.com/problemset/problem/120/B) `1100`
+- [ ] 92. [6B — President's Office](https://codeforces.com/problemset/problem/6/B) `1100`
+- [ ] 93. [1370B — GCD Compression](https://codeforces.com/problemset/problem/1370/B) `1100`
+- [ ] 94. [1345B — Card Constructions](https://codeforces.com/problemset/problem/1345/B) `1100`
+- [ ] 95. [1334B — Middle Class](https://codeforces.com/problemset/problem/1334/B) `1100`
+- [ ] 96. [1333B — Kind Anton](https://codeforces.com/problemset/problem/1333/B) `1100`
+- [ ] 97. [1213B — Bad Prices](https://codeforces.com/problemset/problem/1213/B) `1100`
+- [ ] 98. [1146B — Hate "A"](https://codeforces.com/problemset/problem/1146/B) `1100`
+- [ ] 99. [1099B — Squares and Segments](https://codeforces.com/problemset/problem/1099/B) `1100`
+- [ ] 100. [362B — Petya and Staircases](https://codeforces.com/problemset/problem/362/B) `1100`
+
+### 50 Problems C (0/50)
+
+- [ ] 1. [1374C — Move Brackets](https://codeforces.com/problemset/problem/1374/C) `1000`
+- [ ] 2. [1353C — Board Moves](https://codeforces.com/problemset/problem/1353/C) `1000`
+- [ ] 3. [1144C — Two Shuffled Sequences](https://codeforces.com/problemset/problem/1144/C) `1000`
+- [ ] 4. [630C — Lucky Numbers](https://codeforces.com/problemset/problem/630/C) `1100`
+- [ ] 5. [1360C — Similar Pairs](https://codeforces.com/problemset/problem/1360/C) `1100`
+- [ ] 6. [1335C — Two Teams Composing](https://codeforces.com/problemset/problem/1335/C) `1100`
+- [ ] 7. [1324C — Frog Jumps](https://codeforces.com/problemset/problem/1324/C) `1100`
+- [ ] 8. [1231C — Increasing Matrix](https://codeforces.com/problemset/problem/1231/C) `1100`
+- [ ] 9. [1015C — Songs Compression](https://codeforces.com/problemset/problem/1015/C) `1100`
+- [ ] 10. [1399C — Boats Competition](https://codeforces.com/problemset/problem/1399/C) `1200`
+- [ ] 11. [1392C — Omkar and Waterslide](https://codeforces.com/problemset/problem/1392/C) `1200`
+- [ ] 12. [1385C — Make It Good](https://codeforces.com/problemset/problem/1385/C) `1200`
+- [ ] 13. [1352C — K-th Not Divisible by n](https://codeforces.com/problemset/problem/1352/C) `1200`
+- [ ] 14. [1343C — Alternating Subsequence](https://codeforces.com/problemset/problem/1343/C) `1200`
+- [ ] 15. [1328C — Ternary XOR](https://codeforces.com/problemset/problem/1328/C) `1200`
+- [ ] 16. [1315C — Restoring Permutation](https://codeforces.com/problemset/problem/1315/C) `1200`
+- [ ] 17. [1272C — Yet Another Broken Keyboard](https://codeforces.com/problemset/problem/1272/C) `1200`
+- [ ] 18. [1257C — Dominated Subarray](https://codeforces.com/problemset/problem/1257/C) `1200`
+- [ ] 19. [1221C — Perfect Team](https://codeforces.com/problemset/problem/1221/C) `1200`
+- [ ] 20. [1214C — Bad Sequence](https://codeforces.com/problemset/problem/1214/C) `1200`
+- [ ] 21. [1213C — Book Reading](https://codeforces.com/problemset/problem/1213/C) `1200`
+- [ ] 22. [1133C — Balanced Team](https://codeforces.com/problemset/problem/1133/C) `1200`
+- [ ] 23. [1131C — Birthday](https://codeforces.com/problemset/problem/1131/C) `1200`
+- [ ] 24. [1102C — Doors Breaking and Repairing](https://codeforces.com/problemset/problem/1102/C) `1200`
+- [ ] 25. [1100C — NN and the Optical Illusion](https://codeforces.com/problemset/problem/1100/C) `1200`
+- [ ] 26. [1099C — Postcard](https://codeforces.com/problemset/problem/1099/C) `1200`
+- [ ] 27. [1023C — Bracket Subsequence](https://codeforces.com/problemset/problem/1023/C) `1200`
+- [ ] 28. [1006C — Three Parts of the Array](https://codeforces.com/problemset/problem/1006/C) `1200`
+- [ ] 29. [919C — Seat Arrangements](https://codeforces.com/problemset/problem/919/C) `1300`
+- [ ] 30. [899C — Dividing the numbers](https://codeforces.com/problemset/problem/899/C) `1300`
+- [ ] 31. [747C — Servers](https://codeforces.com/problemset/problem/747/C) `1300`
+- [ ] 32. [670C — Cinema](https://codeforces.com/problemset/problem/670/C) `1300`
+- [ ] 33. [625C — K-special Tables](https://codeforces.com/problemset/problem/625/C) `1300`
+- [ ] 34. [519C — A and B and Team Training](https://codeforces.com/problemset/problem/519/C) `1300`
+- [ ] 35. [1401C — Mere Array](https://codeforces.com/problemset/problem/1401/C) `1300`
+- [ ] 36. [1367C — Social Distance](https://codeforces.com/problemset/problem/1367/C) `1300`
+- [ ] 37. [1326C — Permutation Partitions](https://codeforces.com/problemset/problem/1326/C) `1300`
+- [ ] 38. [1311C — Perform the Combo](https://codeforces.com/problemset/problem/1311/C) `1300`
+- [ ] 39. [1271C — Shawarma Tent](https://codeforces.com/problemset/problem/1271/C) `1300`
+- [ ] 40. [1194C — From S To T](https://codeforces.com/problemset/problem/1194/C) `1300`
+- [ ] 41. [1380C — Create The Teams](https://codeforces.com/problemset/problem/1380/C) `1400`
+- [ ] 42. [1375C — Element Extermination](https://codeforces.com/problemset/problem/1375/C) `1400`
+- [ ] 43. [1370C — Number Game](https://codeforces.com/problemset/problem/1370/C) `1400`
+- [ ] 44. [1312C — Adding Powers](https://codeforces.com/problemset/problem/1312/C) `1400`
+- [ ] 45. [1270C — Make Good](https://codeforces.com/problemset/problem/1270/C) `1400`
+- [ ] 46. [1400C — Binary String Reconstruction](https://codeforces.com/problemset/problem/1400/C) `1500`
+- [ ] 47. [1391C — Cyclic Permutations ](https://codeforces.com/problemset/problem/1391/C) `1500`
+- [ ] 48. [1389C — Good String](https://codeforces.com/problemset/problem/1389/C) `1500`
+- [ ] 49. [1372C — Omkar and Baseball](https://codeforces.com/problemset/problem/1372/C) `1500`
+- [ ] 50. [1366C — Palindromic Paths](https://codeforces.com/problemset/problem/1366/C) `1500`
