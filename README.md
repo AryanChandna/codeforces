@@ -9,12 +9,12 @@ Working through [Simple training for beginners](https://codeforces.com/blog/entr
 3. Once accepted, save it as `src/P<id>.java` (e.g. `src/P231A.java`, class `P231A`).
 4. `python3 scripts/progress.py` to refresh this README, then commit and push.
 
-## Progress: 1/250
+## Progress: 2/250
 
-### 100 Problems A (1/100)
+### 100 Problems A (2/100)
 
 - [x] 1. [231A — Team](https://codeforces.com/problemset/problem/231/A) `800`
-- [ ] 2. [228A — Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A) `800`
+- [x] 2. [228A — Is your horseshoe on the other hoof?](https://codeforces.com/problemset/problem/228/A) `800`
 - [ ] 3. [236A — Boy or Girl](https://codeforces.com/problemset/problem/236/A) `800`
 - [ ] 4. [233A — Perfect Permutation](https://codeforces.com/problemset/problem/233/A) `800`
 - [ ] 5. [214A — System of Equations](https://codeforces.com/problemset/problem/214/A) `800`
